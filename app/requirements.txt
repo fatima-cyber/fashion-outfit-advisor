@@ -1,0 +1,12 @@
+fastapi==0.115.2
+langchain==0.3.3
+langchain-community==0.3.2
+langchain-core==0.3.10
+langchain-openai==0.2.2
+openai==1.51.2
+pyowm==3.3.0
+python-dotenv==1.0.1
+setuptools==75.1.0
+tiktoken==0.8.0
+uvicorn==0.31.1
+python-multipart
