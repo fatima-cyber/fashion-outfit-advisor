@@ -1,6 +1,6 @@
 # 👗 Fashion Outfit Advisor 🌟
 
-Welcome to the **Fashion Outfit Advisor**! This application provides personalized fashion advice based on user inputs, live weather. Whether you're looking for outfit recommendations or want to explore similar products, we've got you covered! 👗👖
+Welcome to the **Fashion Outfit Advisor**! This application provides personalized fashion advice based on user inputs, and live weather. Whether you're looking for outfit recommendations or want to explore similar products, we've got you covered! 👗👖
 
 ## 🚀 Features
 
