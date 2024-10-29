@@ -11,3 +11,4 @@ setuptools==75.1.0
 streamlit==1.39.0
 tiktoken==0.8.0
 uvicorn==0.31.1
+pydantic==2.1.1
